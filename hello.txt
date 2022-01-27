@@ -1,7 +1,5 @@
 12213213
 on hello branch
 
-<<< HEAD
 ddfdf
 12121212
->> 2c505c0f2a72f6c9ace2dad2a3569f035b032d9b
